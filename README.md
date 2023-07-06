@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Namya Jain</h1>
-<h3 align="center">A tech enthusiast interested in Developing cool cross-platform applications</h3>
+<h3 align="center">A tech enthusiast interested in developing cool cross-platform applications</h3>
 
 - 🔭 I’m currently working on [Skill शाळा](https://github.com/Namya13Jain/Skill_Shala)
 
