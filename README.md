@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Namya Jain</h1>
 <h3 align="center">A tech enthusiast interested in developing cool cross-platform applications</h3>
 
-- 🔭 I’m currently working on [Skill शाळा](https://github.com/Namya13Jain/Skill_Shala)
+<--- 🔭 I’m currently working on [Skill शाळा](https://github.com/Namya13Jain/Skill_Shala)-->
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [https://medium.com/@jainnamya1306](https://medium.com/@jainnamya1306)
+- 📝 I regularly write articles on [Meium](https://medium.com/@namya.developer)
 
 - 💬 Ask me about **Flutter, Dart, C++**
 
 - 📫 How to reach me **jainnamya1306@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fi1dqURFvDIEqxdWnVkKaOwmHwywAxUo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1r0IFfZdMk-lPS5D1_F3tfi6BDcVTChj5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
