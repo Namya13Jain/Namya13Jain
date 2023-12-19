@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [Meium](https://medium.com/@namya.developer)
+- 📝 I regularly write articles on [Medium](https://medium.com/@namya.developer)
 
-- 💬 Ask me about **Flutter, Dart, C++**
+- 💬 Ask me about **Flutter, Dart, C++, Python**
 
 - 📫 How to reach me **jainnamya1306@gmail.com**
 
