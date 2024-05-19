@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Namya Jain</h1>
-<h3 align="center">A tech enthusiast interested in developing cool cross-platform applications</h3>
+<h3 align="center">A tech enthusiast interested in cracking and building stuff!!</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
