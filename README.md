@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@namya.developer)
+- 📝 I write articles on [Medium](https://medium.com/@namya.developer)
 
 - 💬 Ask me about **Flutter, Dart, C++, Python**
 
 - 📫 How to reach me **jainnamya1306@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12CFNc3cbrEm_LFdT09tZeEzYPRWXyvMJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hIsVK5x7M27XU4V4tC71E2VSbBciYQ2Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
